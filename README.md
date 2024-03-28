@@ -12,7 +12,7 @@ The second area creates a two reports in a PowerPoint format. The first one rega
 ![Image](images/Home.jpeg)
 
 ### Protein-Ligand interaction - Aromatic Contact Probability
-A second example of protein-ligand interaction is the aromatic contact probability. A scrollable container on the left allows the visualization of contact probability plots and the 2D representation of such contacts. On the right a panel to select single trajectories to be loaded and visualized in 3D. Voxels represent the non-satisfied contacts by HIS 413, which could be exploited by changing the small molecule structure. Any residue can be selected along with the satisfied interactions. The 3D representation is provided by Mol* allowing some customizations on the visualization upon loading the structure. 
+Here is shown an example of 3D pharmacophore on a Protein-Ligand interaction page. A scrollable container on the left allows the visualization of contact probability plots and the 2D representation of such contacts. On the right a panel to select single trajectories to be loaded and visualized in 3D. Voxels represent the non-satisfied contacts by HIS 413, which could be exploited by changing the small molecule structure. Any residue can be selected along with the satisfied interactions. The 3D representation is provided by Mol* allowing some customizations on the visualization upon loading the structure. 
 
 ![Image](images/Aromatic_pharmacophore.png)
 
